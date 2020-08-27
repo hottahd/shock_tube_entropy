@@ -1,0 +1,8 @@
+a.out
+data/*
+data
+*.o
+*.mod
+make/update
+figs/*
+.DS_Store
